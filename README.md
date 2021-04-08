@@ -4,6 +4,11 @@
 
 ## 框架相关
 
+### 框架关系/比较
+
+- 对比React和Vue
+- 对比jsx和template
+
 ### 虚拟DOM
 
 - 什么是虚拟DOM？
@@ -19,6 +24,10 @@
 - 对hooks的理解？
 - hooks函数组件和class组件的区别？
 - fiber架构？
+
+### Vue
+
+- this.nextTick怎么理解？
 
 ## 未分类
 
