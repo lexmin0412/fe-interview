@@ -9,6 +9,7 @@
 - 对比React和Vue
 - 对比jsx和template
 - 对比hooks和composition
+- 虚拟dom在React和Vue中的区别
 
 ### 虚拟DOM
 
