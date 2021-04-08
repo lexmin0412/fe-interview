@@ -15,5 +15,11 @@
 
 ### React
 
+- class组件和es6的class的关系？
+- class中constructor的为什么需要super(props)
 - 对jsx的理解？React17的jsx发生了什么变化？
+- 高阶组件？
+- 对hooks的理解？
+- hooks函数组件和class组件的区别？
 - fiber架构？
+
