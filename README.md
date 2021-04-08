@@ -8,6 +8,7 @@
 
 - 对比React和Vue
 - 对比jsx和template
+- 对比hooks和composition
 
 ### 虚拟DOM
 
