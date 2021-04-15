@@ -33,11 +33,7 @@
 
 ### 性能优化
 
-- webpack
-- React
-- Vue
-- Css
-- 缓存
+- 常用的性能优化手段(webpack/React/Vue/Css/缓存)
 
 ## 未分类
 
