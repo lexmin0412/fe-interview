@@ -2,6 +2,11 @@
 
 这里会记录找工作以及学习期间的一些面试题。
 
+## JavaScript 基础
+
+- parseInt() 和 Number() 的区别
+- var 和 const / let 的区别
+
 ## 框架相关
 
 ### 框架关系/比较
