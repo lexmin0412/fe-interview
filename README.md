@@ -12,6 +12,7 @@
 
 - parseInt() 和 Number() 的区别
 - var 和 const / let 的区别
+- 如何写一个会过期的localStorage，说说想法
 
 ### 框架相关
 
@@ -60,6 +61,7 @@
 - 多列瀑布流列表设计方案
 - 说说你对Web Components的理解(对比React/Vue组件)
 - 说说你对shadow DOM的理解
+- 请你说说让不同的浏览器兼容ES6的方法
 
 ## 非技术向
 
