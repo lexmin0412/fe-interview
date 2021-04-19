@@ -18,6 +18,7 @@
 - parseInt() 和 Number() 的区别
 - var 和 const / let 的区别
 - 如何写一个会过期的localStorage，说说想法
+- 请你说说scrollIntoView的兼容性和参数
 
 ### 框架相关
 
